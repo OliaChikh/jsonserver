@@ -1,0 +1,37 @@
+{
+    "posts": [
+      { "id": 1, 
+        "imgHouse": "./img/main_investigation/house_1.jpg", 
+        "authorImg": "./img/avatar/avatar_1.svg",
+        "authorName": "Dianne Russell",
+        "postTitle": "The things we need to check when we want to buy a house",
+        "timeIcon": "./img/avatar/icon_time.svg",
+        "timeForReading": "4 min read | 25 Apr 2021"
+      },
+      { "id": 2, 
+        "imgHouse": "./img/main_investigation/house_2.jpg", 
+        "authorImg": "./img/avatar/avatar_2.svg",
+        "authorName": "Courtney Henry",
+        "postTitle": "7 Ways to distinguish the quality of the house we want to buy",
+        "timeIcon": "./img/avatar/icon_time.svg",
+        "timeForReading": "6 min read | 24 Apr 2021"
+      },
+      { "id": 3, 
+        "imgHouse": "./img/main_investigation/house_3.jpg", 
+        "authorImg": "./img/avatar/avatar_4.svg",
+        "authorName": "Darlene Robertson",
+        "postTitle": "The best way to know the quality of the house we want to buy",
+        "timeIcon": "./img/avatar/icon_time.svg",
+        "timeForReading": "2 min read | 24 Apr 2021"
+      },
+      { "id": 4, 
+        "imgHouse": "./img/main_investigation/house_4.jpg", 
+        "authorImg": "./img/avatar/avatar_3.svg",
+        "authorName": "Cameron Williamson",
+        "postTitle": "12 Things to know before buying a house",
+        "postText": "Want to buy a house but are unsure about what we should know, here I will try to explain what we should know and check when we want to buy a house",
+        "timeIcon": "./img/avatar/icon_time.svg",
+        "timeForReading": "6 min read | 24 Apr 2021"
+      }
+    ]
+  }

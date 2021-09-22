@@ -1,0 +1,29 @@
+[
+    { "img": "./img/image_15.jpg",
+      "description": "Дощовик прозорий Warning",
+      "price": "800грн"
+    },
+    { "img": "./img/image_7.jpg",
+        "description": "Дощовик прозорий Warning",
+        "price": "800грн"
+    },
+    { "img": "./img/image_8.jpg",
+        "description": "Дощовик прозорий Warning",
+        "price": "800грн"
+    },
+    { "img": "./img/image_11.jpg",
+        "description": "Дощовик прозорий Warning",
+        "price": "800грн"
+    },
+
+
+    { "img": "./img/image_39.jpg",
+        "description": "Дощовик прозорий Warning",
+        "price": "800грн"
+    },
+
+    { "img": "./img/1T0A1800_4.jpg",
+        "description": "Дощовик прозорий Warning",
+        "price": "800грн"
+    }
+ ]
